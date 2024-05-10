@@ -1,0 +1,22 @@
+.carousel{
+    height: 90vh !important;
+}
+
+
+.carousel-inner{
+    height: 100% !important;
+}
+
+.carousel-item{
+    height: 
+    100% !important ;
+}
+
+
+
+
+.progress-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
